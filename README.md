@@ -17,7 +17,7 @@ I have also used the code needed to run HONEST and evaluate the model I have cre
 
 All the materials used have been compiled and are available here in this github:
 1. Code used to preprocess the .txt files and covert them into .csv.
-2. Code used to train and evaluate the models.
+2. [Code used to train and evaluate the models](https://github.com/AmaiaSolaun/MEASURING-HURTFUL-SENTENCE-COMPLETION-IN-FILMBERT-MODELS-USING-HONEST/blob/8f2b65355fd445e1a7bf577b6b42f00bf75c715f/Deep_Learning.ipynb)
 3. Trained FilmBERT models: [DistilFilmBERT-base-uncased](https://huggingface.co/AmaiaSolaun/film20000distilbert-base-uncased), [FilmBERT-base-uncased](AmaiaSolaun/film20000bert-base-uncased) and [FilmRoBERTa-base](https://huggingface.co/AmaiaSolaun/film20000roberta-base).
 
 
