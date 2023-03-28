@@ -16,6 +16,9 @@ For the development of the code to the models,  have made use of the code availa
 I have also used the code needed to run HONEST and evaluate the model I have created, which is available [here](https://colab.research.google.com/drive/13iAwHmtdYIAzDt8O5Ldat2vbKz9Ej6PT?usp=sharing).
 
 All the materials used have been compiled and are available here in this github:
+
+[LINK TO THE COLAB FOLDER](https://drive.google.com/drive/folders/1ialmqclR5IaD8573ijQ0Zj4tS5uO_Woq?usp=share_link)
+
 1. Code used to preprocess the .txt files and covert them into .csv.
 2. Code used to train and evaluate the models: [for models trained with 95.000 examples](https://github.com/AmaiaSolaun/Measuring-Hurtful-Sentence-Completion-In-Filmbert-Models-Using-Honest/blob/3fecb43e3c1608ccc57d458b9d11d27972201067/FINE_TUNING_WITH_FILM_DATA_IN_MLM_(95_000_examples).ipynb) and [for models trained with 20.000 examples](https://github.com/AmaiaSolaun/Measuring-Hurtful-Sentence-Completion-In-Filmbert-Models-Using-Honest/blob/0f692802e16bc816782be92cde349f7d2341eb3d/FINE_TUNING_WITH_FILM_DATA_IN_MLM_(20_000_examples).ipynb)
 3. Trained FilmBERT models: [20000DistilFilmBERT-base-uncased](https://huggingface.co/AmaiaSolaun/film20000distilbert-base-uncased), [20000FilmBERT-base-uncased](AmaiaSolaun/film20000bert-base-uncased), [20000FilmRoBERTa-base](https://huggingface.co/AmaiaSolaun/film20000roberta-base),  [95000DistilFilmBERT-base-uncased](https://huggingface.co/AmaiaSolaun/film95000distilbert-base-uncased), [95000FilmBERT-base-uncased](AmaiaSolaun/film95000bert-base-uncased), [95000FilmRoBERTa-base](https://huggingface.co/AmaiaSolaun/film95000roberta-base).
